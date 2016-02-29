@@ -2,7 +2,7 @@
 
 //Creating a new object, based upon the native Object in Javascript
 
-console.log("Data from object-new.js file");
+console.log("Data from object-new-prototype.js file");
 
 var fish = new Object();
 
