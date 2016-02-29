@@ -1,5 +1,7 @@
-//Object literals, also JSON objects!
+'use strict';
 
+//Object literals, also JSON objects!
+console.log("Data from object-literal.js file");
 //empty object literal
 var emptyObject = {};
 
@@ -10,11 +12,15 @@ var quotyObj = {
   "favorite-food": "Chimichanga"
 };
 
+console.log(quotyObj);
+
 var nonQuotyObj = {
   name: "Tony Stark",
   career: "Avenger",
   hobby: "Building iron suits"
 };
+
+console.log(nonQuotyObj);
 
 //object literals can also be nested! With arrays!
 var dog = {
@@ -31,6 +37,8 @@ var dog = {
   ]
 }
 
+console.log(dog);
+
 //and also, they can be arrays of objects!
 var avengers = [
   {
@@ -45,4 +53,6 @@ var avengers = [
     name: "Captain America",
     power: "Super strength"
   }
-]
+];
+
+console.log(avengers);
