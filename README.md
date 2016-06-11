@@ -7,5 +7,6 @@ Happy coding :D!
 Sources:
 http://www.tutorialspoint.com/javascript/javascript_objects.htm
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
 http://www.w3schools.com/js/js_object_definition.asp
 http://www.w3schools.com/js/js_object_prototypes.asp

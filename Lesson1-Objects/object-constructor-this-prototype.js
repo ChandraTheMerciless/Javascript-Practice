@@ -25,7 +25,7 @@ console.log(newton);
 
 spock.sayGreeting("Hello, human.");
 
-//We can also alter  object's prototype
+//We can also alter the original constructor's prototype to give it new properties
 Alien.prototype.defense = function(def){
     console.log("Take that! I have " + def);
 };
