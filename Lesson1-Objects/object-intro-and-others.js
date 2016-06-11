@@ -1,3 +1,4 @@
+console.log("Data from object-intro-and-others.js file");
 //Javascript has 6 primitive data types that all objects can hold as parameters. The six types are in this object literal as follows:
 var dataTypes = {
     null: null, //declared, and assigned null value, or empty
